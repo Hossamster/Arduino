@@ -1,4 +1,4 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "1.ino"
+    "sketch": "keypad to open servo\\keypad_to_open_servo.ino"
 }
